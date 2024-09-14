@@ -27,4 +27,6 @@ Here is the deletion of all data:
 
 This method is for deleting the selected row; deletion is done using the index:
 
-
+<p align = "center">
+  <img src ="/images/code_snippet_3.png" width="800" >
+</p>
